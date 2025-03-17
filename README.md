@@ -48,6 +48,10 @@ openpyxl for Excel file handling
 
 tkinter for GUI interface
 
+Output-
+![Screenshot 2025-03-17 171017](https://github.com/user-attachments/assets/a8ee9f39-f830-4055-b6c2-126f5f22be41)
+
+
 📜 License
 
 This project is licensed under the MIT License.
